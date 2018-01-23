@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+    xmlns:local="clr-namespace:ChartControl" x:Class="ChartControl.ChartControlPage"
+    >
+	    <StackLayout x:Name="PageLayout" Orientation="Horizontal">
+        <Button Text="Bar Chart" CommandParameter="Bar" Clicked="Handle_Clicked" FontSize="15" WidthRequest="80" HeightRequest="80" TextColor="White" BackgroundColor="Black"/>
+      <Button Text="Bound Chart" CommandParameter="Bound" Clicked="Handle_Clicked" FontSize="15" WidthRequest="80" HeightRequest="80" TextColor="White" BackgroundColor="Black"/>
+      <Button Text="Combination Chart" CommandParameter="Combination" Clicked="Handle_Clicked" FontSize="15" WidthRequest="80" HeightRequest="80" TextColor="White" BackgroundColor="Black"/>
+       <Button Text="Line Chart" CommandParameter="Line" FontSize="15" Clicked="Handle_Clicked" WidthRequest="80" HeightRequest="80" TextColor="White" BackgroundColor="Black"/>
+        <Button Text="Pie Chart" CommandParameter="Pie" FontSize="15" Clicked="Handle_Clicked" WidthRequest="80" HeightRequest="80" TextColor="White" BackgroundColor="Black"/>
+    </StackLayout>
+</ContentPage>

@@ -1,0 +1,8 @@
+/Volumes/My Disk/Poc Project/ChartControl/ChartControl/obj/Debug/ChartControl.csproj.CoreCompileInputs.cache
+/Volumes/My Disk/Poc Project/ChartControl/ChartControl/obj/Debug/ChartControl.App.xaml.g.cs
+/Volumes/My Disk/Poc Project/ChartControl/ChartControl/obj/Debug/ChartControl.ChartControlPage.xaml.g.cs
+/Volumes/My Disk/Poc Project/ChartControl/ChartControl/obj/Debug/ChartControl.Pages.BarChartPage.xaml.g.cs
+/Volumes/My Disk/Poc Project/ChartControl/ChartControl/obj/Debug/ChartControl.Pages.BoundChartPage.xaml.g.cs
+/Volumes/My Disk/Poc Project/ChartControl/ChartControl/obj/Debug/ChartControl.Pages.CombinationPage.xaml.g.cs
+/Volumes/My Disk/Poc Project/ChartControl/ChartControl/obj/Debug/ChartControl.Pages.LineChartPage.xaml.g.cs
+/Volumes/My Disk/Poc Project/ChartControl/ChartControl/obj/Debug/ChartControl.Pages.PieChartPage.xaml.g.cs

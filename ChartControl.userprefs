@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{1972EBD8-01DE-4C2A-B678-A152B4B99672}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ChartControl/obj/Debug/ChartControl.App.xaml.g.cs">
+    <Files>
+      <File FileName="ChartControl/ChartControlPage.xaml.cs" Line="34" Column="44" />
+      <File FileName="ChartControl/Controls/Chart.cs" Line="4" Column="32" />
+      <File FileName="ChartControl/Pages/BarChartPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="ChartControl/obj/Debug/ChartControl.ChartControlPage.xaml.g.cs" Line="1" Column="1" />
+      <File FileName="ChartControl/Pages/BarChartPage.xaml" Line="4" Column="79" />
+      <File FileName="ChartControl/Pages/BoundChartPage.xaml" Line="4" Column="79" />
+      <File FileName="ChartControl/Pages/CombinationPage.xaml" Line="4" Column="81" />
+      <File FileName="ChartControl/Pages/LineChartPage.xaml" Line="4" Column="81" />
+      <File FileName="ChartControl/Pages/PieChartPage.xaml" Line="4" Column="80" />
+      <File FileName="ChartControl/App.xaml" Line="7" Column="1" />
+      <File FileName="ChartControl/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="ChartControl/ChartControlPage.xaml" Line="10" Column="95" />
+      <File FileName="ChartControl/obj/Debug/ChartControl.App.xaml.g.cs" Line="14" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ChartControl.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.F4E2488C-D505-4D1B-9FF9-0479D7FA29D2">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.ChartControl.iOS>
+</Properties>
